@@ -147,3 +147,7 @@ random_forest_dir/
 multirun/
 .vscode/
 clean_sample.csv
+rf_config.json
+random_forest_dir/
+multirun/
+outputs/
